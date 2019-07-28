@@ -2,6 +2,6 @@ Resolusi Dini Sebulan Kedepan
 1. Belajar Git & Git lab
 2. Belajar Angular JS
 3. Belajar IONIC
-4. Belajar Adobe XD
+4. Belajar UI/UX
 5. Belajar Laravel
 6. Belajar Node JS
