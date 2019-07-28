@@ -4,3 +4,4 @@ Resolusi Dini Sebulan Kedepan
 3. Belajar IONIC
 4. Belajar Adobe XD
 5. Belajar Laravel
+6. Belajar Node JS
